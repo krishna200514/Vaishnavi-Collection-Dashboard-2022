@@ -49,6 +49,6 @@ The maximum number of orders come from Amazon, Flipkart, and Myntra channels.
 More than 90% of the products were delivered.
 
 ## Final Conclusion
-To improve the sales of Vrinda Store, a strategic marketing plan should be focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh. This demographic represents a key consumer segment. The approach should include targeted digital marketing campaigns and personalized promotions on Amazon, Flipkart, and Myntra to capture their attention.
+To improve the sales of Vaishnavi Collection, a strategic marketing plan should be focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh. This demographic represents a key consumer segment. The approach should include targeted digital marketing campaigns and personalized promotions on Amazon, Flipkart, and Myntra to capture their attention.
 
 
